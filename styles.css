@@ -1,7 +1,7 @@
 
 h1{
   grid-area: footer;
-  background-color: #333;
+  background-color: darkblue;
   color: white;
   padding: 20px;
   text-align: center;
@@ -43,7 +43,7 @@ h1{
 
   footer {
     grid-area: footer;
-    background-color: #333;
+    background-color: darkblue;
     color: white;
     padding: 20px;
     text-align: center;
